@@ -1,4 +1,4 @@
-# WinVen - El gestor de ventanas definitivo para los pibes
+# WinVen - El gestor de ventanas PARA LOS WEBONES IGUAL QUE YO
 
 WinVen es esa herramienta que ws un gestor de ventanas para Windows que te permite controlar todo con el teclado para optimizar tu experiencia en la PC.
 
