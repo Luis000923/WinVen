@@ -1,0 +1,12 @@
+{
+  "animation_speed": 12,
+  "animations_enabled": true,
+  "auto_start": false,
+  "config_version": "1.0",
+  "hotkeys.config_panel": "Ctrl+Alt+0",
+  "hotkeys.game_mode": "Ctrl+Alt+J",
+  "margin": 6,
+  "sounds_enabled": true,
+  "transparency_level": 180,
+  "tray_icon_enabled": true
+}

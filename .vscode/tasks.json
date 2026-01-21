@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar Todo",
+            "type": "shell",
+            "command": ".\\compilar.bat",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Iniciar Gestor",
+            "type": "shell",
+            "command": ".\\iniciar.bat",
+            "group": "none"
+        }
+    ]
+}
